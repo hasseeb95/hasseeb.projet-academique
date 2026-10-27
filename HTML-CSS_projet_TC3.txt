@@ -1,0 +1,33 @@
+Projet HTML/CSS — travail en binôme 
+
+Objectif général : Réaliser en binôme un site web complet sur le thème de votre choix, en mettant en pratique tout ce que vous avez appris en HTML et CSS. 
+
+1. Choix du site : 
+- Sujet libre : site vitrine, portfolio, page d’événement, mini magazine, etc. 
+- Le site doit comporter au minimum quatre pages reliées entre elles avec un menu de navigation. 
+- Le contenu peut être fictif, mais il doit être cohérent et lisible. 
+
+2. Charte graphique : 
+- Palette de couleurs contrastées et harmonieuses (lisibilité et accessibilité). 
+- Typographie claire et cohérente sur l’ensemble du site. 
+- Mise en page équilibrée et hiérarchie visuelle claire. 
+
+3. Répartition des tâches : 
+- Chaque membre du binôme doit contribuer activement. Définissez dès le début : qui s’occupe de quelle partie (HTML, CSS, structure, design, contenu…) ; comment vous vous organisez (planning, partage, communication) ; vous expliquerez cette répartition lors de la présentation finale. 
+
+4. Objectifs de développement : Le site doit : 
+- Être structuré en HTML.
+- Avoir un menu de navigation fonctionnel.
+- Code propre, indenté et commenté.
+
+5. Livrable à déposer sur l'ENF avant le dernier cours, donc avant le vendredi 16 octobre 9h : 
+- Le site complet (fichiers HTML et CSS).
+
+6. Présentation finale : 
+- Durée : 10 minutes par binôme 
+Chaque binôme présente : 
+1. Le site réalisé (démonstration rapide).
+2. Leur organisation et la répartition des tâches.
+3. Les objectifs de départ et les résultats obtenus.
+4. Les points techniques ou visuels dont ils sont fiers.
+5. Les difficultés rencontrées et les leçons retenues.
